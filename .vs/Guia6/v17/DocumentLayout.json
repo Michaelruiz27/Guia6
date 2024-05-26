@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guia6\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guian6\\Guia6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC615630-DAB2-4EC9-9BD2-C0C0C508E527}|Guia6\\Guia6.csproj|c:\\users\\dell\\onedrive\\escritorio\\guia6\\guia6\\cambioaceite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC615630-DAB2-4EC9-9BD2-C0C0C508E527}|Guia6\\Guia6.csproj|c:\\users\\dell\\onedrive\\escritorio\\guian6\\guia6\\guia6\\cambioaceite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC615630-DAB2-4EC9-9BD2-C0C0C508E527}|Guia6\\Guia6.csproj|solutionrelative:guia6\\cambioaceite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC615630-DAB2-4EC9-9BD2-C0C0C508E527}|Guia6\\Guia6.csproj|c:\\users\\dell\\onedrive\\escritorio\\guia6\\guia6\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC615630-DAB2-4EC9-9BD2-C0C0C508E527}|Guia6\\Guia6.csproj|c:\\users\\dell\\onedrive\\escritorio\\guian6\\guia6\\guia6\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC615630-DAB2-4EC9-9BD2-C0C0C508E527}|Guia6\\Guia6.csproj|solutionrelative:guia6\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC615630-DAB2-4EC9-9BD2-C0C0C508E527}|Guia6\\Guia6.csproj|c:\\users\\dell\\onedrive\\escritorio\\guia6\\guia6\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC615630-DAB2-4EC9-9BD2-C0C0C508E527}|Guia6\\Guia6.csproj|c:\\users\\dell\\onedrive\\escritorio\\guian6\\guia6\\guia6\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC615630-DAB2-4EC9-9BD2-C0C0C508E527}|Guia6\\Guia6.csproj|solutionrelative:guia6\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC615630-DAB2-4EC9-9BD2-C0C0C508E527}|Guia6\\Guia6.csproj|c:\\users\\dell\\onedrive\\escritorio\\guia6\\guia6\\reparaciondefrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC615630-DAB2-4EC9-9BD2-C0C0C508E527}|Guia6\\Guia6.csproj|c:\\users\\dell\\onedrive\\escritorio\\guian6\\guia6\\guia6\\reparaciondefrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC615630-DAB2-4EC9-9BD2-C0C0C508E527}|Guia6\\Guia6.csproj|solutionrelative:guia6\\reparaciondefrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC615630-DAB2-4EC9-9BD2-C0C0C508E527}|Guia6\\Guia6.csproj|c:\\users\\dell\\onedrive\\escritorio\\guia6\\guia6\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC615630-DAB2-4EC9-9BD2-C0C0C508E527}|Guia6\\Guia6.csproj|c:\\users\\dell\\onedrive\\escritorio\\guian6\\guia6\\guia6\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC615630-DAB2-4EC9-9BD2-C0C0C508E527}|Guia6\\Guia6.csproj|solutionrelative:guia6\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,50 +36,47 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "servicio.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guia6\\Guia6\\servicio.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guian6\\Guia6\\Guia6\\servicio.cs",
               "RelativeDocumentMoniker": "Guia6\\servicio.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guia6\\Guia6\\servicio.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guian6\\Guia6\\Guia6\\servicio.cs",
               "RelativeToolTip": "Guia6\\servicio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T17:52:03.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T17:52:03.753Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Vehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guia6\\Guia6\\Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guian6\\Guia6\\Guia6\\Vehiculo.cs",
               "RelativeDocumentMoniker": "Guia6\\Vehiculo.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guia6\\Guia6\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guian6\\Guia6\\Guia6\\Vehiculo.cs",
               "RelativeToolTip": "Guia6\\Vehiculo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T17:52:01.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T17:52:01.848Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Reparaciondefrenos.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guia6\\Guia6\\Reparaciondefrenos.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guian6\\Guia6\\Guia6\\Reparaciondefrenos.cs",
               "RelativeDocumentMoniker": "Guia6\\Reparaciondefrenos.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guia6\\Guia6\\Reparaciondefrenos.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guian6\\Guia6\\Guia6\\Reparaciondefrenos.cs",
               "RelativeToolTip": "Guia6\\Reparaciondefrenos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T17:52:00.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T17:52:00.358Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CambioAceite.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guia6\\Guia6\\CambioAceite.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guian6\\Guia6\\Guia6\\CambioAceite.cs",
               "RelativeDocumentMoniker": "Guia6\\CambioAceite.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guia6\\Guia6\\CambioAceite.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guian6\\Guia6\\Guia6\\CambioAceite.cs",
               "RelativeToolTip": "Guia6\\CambioAceite.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T17:51:48.118Z",
               "EditorCaption": ""
@@ -88,14 +85,13 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Coche.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guia6\\Guia6\\Coche.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guian6\\Guia6\\Guia6\\Coche.cs",
               "RelativeDocumentMoniker": "Guia6\\Coche.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guia6\\Guia6\\Coche.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Guian6\\Guia6\\Guia6\\Coche.cs",
               "RelativeToolTip": "Guia6\\Coche.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T17:51:45.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T17:51:45.636Z"
             }
           ]
         }
